@@ -11,6 +11,8 @@ Once installed, you can simply speak to the **Botta-Bing** app and it will answe
 
 - **Learn More: Our Bots**
 https://www.youtube.com/watch?v=8x4GLYNoKkE&t=2s
+![A dancing cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 - **Learn More: Install Bota-Bing**
 https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3
 # Here Are Some Commands, Just Say
