@@ -4,7 +4,7 @@
 Author: Loree S.
 Date: Febuary 22nd 2023
 Email: lorees35@gmail.com
-[Linkedin](https://www.linkedin.com/in/loree-sebastien/)
+
 ```
 Botta-Bing in a nutshell is Text to Speech AI Information Tool. It is driven by natural language AI technology processing Voice to Text with information integrations and corrections from popular API's including: **ChatGPT, OpenWeatherMaps.org, NewsData.io, Google Cloud**.
 
@@ -137,3 +137,4 @@ Edit the **"params"** file in the root directory with you updated API Keys.
 #### Thank you ! Enjoy!
 #### Sincerely,
 ##### Loree S.
+[Linkedin](https://www.linkedin.com/in/loree-sebastien/)
