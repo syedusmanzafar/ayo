@@ -12,26 +12,24 @@ Once installed, you can simply speak to the **Botta-Bing** app and it will answe
 
 - [**Learn More: Install Bota-Bing**](https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3)
 
-![Click below see full video](gif2.gif)
+![Click above to see full video](gif2.gif)
 
 
 
 
-- **Learn More: Bota-Bing Latest Updates**
+- [**Learn More: Bota-Bing Latest Updates**](https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3)
+
+
+![Click above see full video](gif1.gif)
+
+
+- [**Learn More: Our Bots**](https://www.youtube.com/watch?v=8x4GLYNoKkE&t=2s)
 
 
 ![Click below see full video](gif1.gif)
 
 
-https://www.youtube.com/playlist?list=PLHaIqooBEjXhVtoZ_lEstZOK-rmadpA_o
 
-- **Learn More: Our Bots**
-
-
-![Click below see full video](gif1.gif)
-
-
-https://www.youtube.com/watch?v=8x4GLYNoKkE&t=2s
 
 https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3
 # Here Are Some Commands, Just Say
