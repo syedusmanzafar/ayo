@@ -133,6 +133,8 @@ Edit the **"params"** file in the root directory with you updated API Keys.
 - Do I have to say "Computer" all the time? Yes and No. The listener in Botta-Bing wakes up when it hears sound so you can say something else like. "Machine" or "Moca," or "Bot" or "Peter" etc. Practice with the name of your choosing.
 - I can't get weather or news or it won't transcribe my voice info - There is a problem with your api keys. Check to see if they are entered correctly in the "params" file.  If there is a transcription error re-run "gcloud init" from the command line
 
+[You can reach me out on Linkedin](https://www.linkedin.com/in/loree-sebastien/)
+
 #### Thank you ! Enjoy!
 #### Sincerely,
 ##### Loree S.
