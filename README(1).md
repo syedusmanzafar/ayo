@@ -4,22 +4,32 @@
 Author: Loree S.
 Date: Febuary 22nd 2023
 Email: lorees35@gmail.com
+
 ```
 Botta-Bing in a nutshell is Text to Speech AI Information Tool. It is driven by natural language AI technology processing Voice to Text with information integrations and corrections from popular API's including: **ChatGPT, OpenWeatherMaps.org, NewsData.io, Google Cloud**.
 
 Once installed, you can simply speak to the **Botta-Bing** app and it will answer you back in its own conversational style. This project was created to integrate with the **"Micro Mini Monster"** and the **"Megha Monster"** line of SpyBots and Computer Enabled Rovers. However it will work as a standalone **Text to Speech AI Information Tool.** 
 
-- **Learn More: Our Bots**
+- [**Learn More: Install Bota-Bing**](https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3)
+
+![Click above to see full video](gif2.gif)
+
+
+
+
+- [**Learn More: Bota-Bing Latest Updates**](https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3)
+
+
+![Click above see full video](gif1.gif)
+
+
+- [**Learn More: Our Bots**](https://www.youtube.com/watch?v=8x4GLYNoKkE&t=2s)
 
 
 ![Click below see full video](gif1.gif)
 
 
-https://www.youtube.com/watch?v=8x4GLYNoKkE&t=2s
 
-- **Learn More: Install Bota-Bing**
-
-![Click below see full video](gif2.gif)
 
 https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3
 # Here Are Some Commands, Just Say
@@ -125,3 +135,4 @@ Edit the **"params"** file in the root directory with you updated API Keys.
 #### Thank you ! Enjoy!
 #### Sincerely,
 ##### Loree S.
+[Linkedin](https://www.linkedin.com/in/loree-sebastien/)
