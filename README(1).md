@@ -10,11 +10,11 @@ Botta-Bing in a nutshell is Text to Speech AI Information Tool. It is driven by 
 
 Once installed, you can simply speak to the **Botta-Bing** app and it will answer you back in its own conversational style. This project was created to integrate with the **"Micro Mini Monster"** and the **"Megha Monster"** line of SpyBots and Computer Enabled Rovers. However it will work as a standalone **Text to Speech AI Information Tool.** 
 
-- **Learn More: Install Bota-Bing**
+- [**Learn More: Install Bota-Bing**](https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3)
 
 ![Click below see full video](gif2.gif)
 
-https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3
+
 
 
 - **Learn More: Bota-Bing Latest Updates**
