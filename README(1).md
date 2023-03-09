@@ -12,7 +12,7 @@ Once installed, you can simply speak to the **Botta-Bing** app and it will answe
 
 - [**Learn More: Install Bota-Bing**](https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3)
 
-![Click above to see full video](gif2.gif)
+![Click above to see full video](gif3.gif)
 
 
 
@@ -26,7 +26,7 @@ Once installed, you can simply speak to the **Botta-Bing** app and it will answe
 - [**Learn More: Our Bots**](https://www.youtube.com/watch?v=8x4GLYNoKkE&t=2s)
 
 
-![Click below see full video](gif1.gif)
+![Click below see full video](gif2.gif)
 
 
 
