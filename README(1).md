@@ -4,6 +4,7 @@
 Author: Loree S.
 Date: Febuary 22nd 2023
 Email: lorees35@gmail.com
+[Linkedin](https://www.linkedin.com/in/loree-sebastien/)
 ```
 Botta-Bing in a nutshell is Text to Speech AI Information Tool. It is driven by natural language AI technology processing Voice to Text with information integrations and corrections from popular API's including: **ChatGPT, OpenWeatherMaps.org, NewsData.io, Google Cloud**.
 
@@ -132,8 +133,6 @@ Edit the **"params"** file in the root directory with you updated API Keys.
 - My Bot can't hear me - Test your microphone. An amplified Microphone with an on\off switch works best.
 - Do I have to say "Computer" all the time? Yes and No. The listener in Botta-Bing wakes up when it hears sound so you can say something else like. "Machine" or "Moca," or "Bot" or "Peter" etc. Practice with the name of your choosing.
 - I can't get weather or news or it won't transcribe my voice info - There is a problem with your api keys. Check to see if they are entered correctly in the "params" file.  If there is a transcription error re-run "gcloud init" from the command line
-
-[You can reach me out on Linkedin](https://www.linkedin.com/in/loree-sebastien/)
 
 #### Thank you ! Enjoy!
 #### Sincerely,
