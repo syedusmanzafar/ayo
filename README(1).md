@@ -29,9 +29,6 @@ Once installed, you can simply speak to the **Botta-Bing** app and it will answe
 ![Click below see full video](gif2.gif)
 
 
-
-
-https://www.youtube.com/playlist?list=PLHaIqooBEjXhdVwQIrCLomTJwaucg_hV3
 # Here Are Some Commands, Just Say
 - **Computer, My Weather. or Computer, Local Weather.** # Current Weather for your Zip Code. Zip Code is specified in ther weather.sh file 
 - **Computer, My day. or Computer, my date.** # Will give back the current Date 
